@@ -8,9 +8,6 @@ sites:
   - name: nitter.lacontrevoie.fr
     url: https://nitter.lacontrevoie.fr
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/fr.png
-  - name: nitter.pussthecat.org
-    url: https://nitter.pussthecat.org
-    icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
   - name: nitter.nixnet.services
     url: https://nitter:nitter@nitter.nixnet.services
     icon: https://raw.githubusercontent.com/kreativekorp/vexillo/master/artwork/vexillo/pvb160/de.png
